@@ -6,5 +6,3 @@ puts a+b+c
 
 puts "substrcting 3 numbers"
 puts a-b-c
-
-puts "output sum"
